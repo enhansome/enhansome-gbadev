@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:56:41Z",
+            "last_commit": "2026-08-15T17:02:35Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
             "stars": 17648
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-06T20:35:00Z",
             "owner": "GValiente",
             "repo": "butano",
-            "stars": 1740
+            "stars": 1741
           }
         },
         {
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:45:00.789Z",
+    "last_updated": "2026-08-16T01:53:36.099Z",
     "original_repository": "gbadev-org/awesome-gbadev",
     "original_repository_sha": "387abb2e273eb91c96157758e49e7cb3e658408b",
     "enhanced_repository": "enhansome/enhansome-gbadev",
