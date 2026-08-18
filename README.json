@@ -62,7 +62,7 @@
             "last_commit": "2026-08-06T20:35:00Z",
             "owner": "GValiente",
             "repo": "butano",
-            "stars": 1744
+            "stars": 1745
           }
         },
         {
@@ -169,7 +169,7 @@
           "description": "Meson-based GBA toolkit with support for many different libraries and tools.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Meson",
             "last_commit": "2025-09-01T16:05:03Z",
             "owner": "LunarLambda",
@@ -349,7 +349,7 @@
           "description": "Modern, from-scratch replacement for libgba and libtonc.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "C",
             "last_commit": "2024-06-03T11:21:43Z",
             "owner": "sdk-seven",
@@ -402,7 +402,7 @@
             "last_commit": "2026-06-26T12:34:27Z",
             "owner": "skylersaleh",
             "repo": "SkyEmu",
-            "stars": 1238
+            "stars": 1239
           }
         },
         {
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:50:34.900Z",
+    "last_updated": "2026-08-18T01:45:47.915Z",
     "original_repository": "gbadev-org/awesome-gbadev",
     "original_repository_sha": "387abb2e273eb91c96157758e49e7cb3e658408b",
     "enhanced_repository": "enhansome/enhansome-gbadev",
