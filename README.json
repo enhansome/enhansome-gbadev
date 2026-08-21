@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 136505169,
                 "language": "Go",
-                "last_commit": "2026-08-19T15:39:15Z",
+                "last_commit": "2026-08-21T00:11:24Z",
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17657
+                "stars": 17661
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-06T20:35:00Z",
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1744
+                "stars": 1745
               }
             },
             {
@@ -413,7 +413,7 @@
                 "last_commit": "2026-06-21T12:22:20Z",
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1309
+                "stars": 1308
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2026-06-26T12:34:27Z",
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1239
+                "stars": 1238
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2025-04-19T14:42:59Z",
                 "owner": "jsmolka",
                 "repo": "gba-tests",
-                "stars": 134
+                "stars": 135
               }
             },
             {
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:46:24.993Z",
+    "last_updated": "2026-08-21T01:51:56.501Z",
     "original_repository": "gbadev-org/awesome-gbadev",
     "original_repository_id": 161929146,
     "original_repository_sha": "387abb2e273eb91c96157758e49e7cb3e658408b",
