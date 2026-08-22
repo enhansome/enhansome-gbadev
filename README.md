@@ -64,14 +64,14 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Compilers
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,661 | 🐛 559 | 🌐 Go | 📅 2026-08-21 - An alternative Go compiler for embedded systems, that supports GBA compilation
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,661 | 🐛 560 | 🌐 Go | 📅 2026-08-21 - An alternative Go compiler for embedded systems, that supports GBA compilation
 * [gba-toolchain](https://github.com/felixjones/gba-toolchain) ⭐ 139 | 🐛 4 | 🌐 CMake | 📅 2026-04-01 - GNU Arm Embedded Toolchain based alternative to devkitARM.
 * [gvasm](https://github.com/velipso/gvasm) ⭐ 70 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-07 - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 * [devkitARM](https://devkitpro.org) - C/C++ cross-compiler toolchain, which includes libgba, libtonc, maxmod, and various tools and example projects.
 
 ## Toolkits
 
-* [Butano](https://github.com/GValiente/butano) ⭐ 1,745 | 🐛 0 | 🌐 C++ | 📅 2026-08-06 - Modern C++ high level engine for the GBA.
+* [Butano](https://github.com/GValiente/butano) ⭐ 1,747 | 🐛 0 | 🌐 C++ | 📅 2026-08-06 - Modern C++ high level engine for the GBA.
 * [rust-console](https://github.com/rust-console/gba) ⭐ 723 | 🐛 7 | 🌐 Rust | 📅 2026-08-13 - GBA programming in Rust, plus tutorial.
 * [ZigGBA](https://github.com/wendigojaeger/ZigGBA) ⭐ 386 | 🐛 7 | 🌐 Zig | 📅 2025-07-19 - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
 * [natu](https://github.com/exelotl/natu) ⭐ 249 | 🐛 0 | 🌐 Nim | 📅 2025-02-15 - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
@@ -106,8 +106,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Emulators
 
 * [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance) ⚠️ Archived - GBA emulator with high accuracy, especially in timing and CPU emulation. Does not have debugging features.
-* [SkyEmu](https://github.com/skylersaleh/SkyEmu) ⭐ 1,238 | 🐛 255 | 🌐 C | 📅 2026-06-26 - GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.
-* [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) ⭐ 176 | 🐛 20 | 🌐 VHDL | 📅 2026-07-22 - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) ⭐ 3,274 | 🐛 131 | 🌐 C++ | 📅 2026-08-20 setup to run.
+* [SkyEmu](https://github.com/skylersaleh/SkyEmu) ⭐ 1,240 | 🐛 255 | 🌐 C | 📅 2026-06-26 - GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.
+* [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) ⭐ 176 | 🐛 20 | 🌐 VHDL | 📅 2026-07-22 - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) ⭐ 3,275 | 🐛 131 | 🌐 C++ | 📅 2026-08-20 setup to run.
 * [mGBA](https://mgba.io) - Actively developed GBA emulator. Runs on a bunch of platforms. Text debugger through GDB stub.
 * [No$gba](https://problemkaputt.de/gba.htm) - Venerable GBA emulator. Windows only, but runs well under Wine. Not very actively maintained but still gets updates now and then. Sports graphical debugger.
 * [Mesen](https://mesen.ca/) - Multi-system emulator with high GBA accuracy. It provides great built-in GUI tools such as a debugger, a profiler and an event viewer.
@@ -124,9 +124,9 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 # Homebrews
 
 * [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,060 | 🐛 167 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine
-* [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) ⭐ 393 | 🐛 2 | 🌐 C | 📅 2025-04-09 - 2019 port of Pico8 version of Celeste.
+* [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) ⭐ 394 | 🐛 2 | 🌐 C | 📅 2025-04-09 - 2019 port of Pico8 version of Celeste.
 * [GBADoom](https://github.com/doomhack/GBADoom) ⭐ 294 | 🐛 24 | 🌐 C | 📅 2025-09-29 - 2019/2020 GBA port of prBoom version of Doom.
-* [BlindJump](https://github.com/evanbowman/blind-jump-portable) ⭐ 231 | 🐛 4 | 🌐 C++ | 📅 2023-07-07 - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
+* [BlindJump](https://github.com/evanbowman/blind-jump-portable) ⭐ 232 | 🐛 4 | 🌐 C++ | 📅 2023-07-07 - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
 * [Goodboy Advance](https://github.com/exelotl/goodboy-advance) ⭐ 71 | 🐛 0 | 🌐 C | 📅 2023-01-01 - Made in 2018, and has a nice bit of information on how it's made.
 * [Tigermoth](https://github.com/pmprog/TigermothGBA) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2021-06-19 - Bullet hell game, developed for the GBAJam 2021
 * [Duster](https://github.com/redthing1/duster) - A sleek strategy board game for the gba
@@ -156,7 +156,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Reverse engineering
 
-* [Pokemon Ruby](https://github.com/pret/pokeruby) ⭐ 983 | 🐛 32 | 🌐 C | 📅 2026-04-09 - C programming language annotation of a Pokemon Ruby disassembly
+* [Pokemon Ruby](https://github.com/pret/pokeruby) ⭐ 984 | 🐛 32 | 🌐 C | 📅 2026-04-09 - C programming language annotation of a Pokemon Ruby disassembly
 * [Reverse Engineering a GameBoy Advance Game](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02) - A series of detailed posts and talks about developing a [level editor](https://github.com/macabeus/klo-gba.js) ⭐ 166 | 🐛 4 | 🌐 JavaScript | 📅 2023-10-01 for *Klonoa: Empire of Dreams*
 
 ## Historical links
@@ -166,4 +166,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
