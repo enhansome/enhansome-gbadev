@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 136505169,
                 "language": "Go",
-                "last_commit": "2026-08-23T19:29:23Z",
+                "last_commit": "2026-08-24T13:39:01Z",
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17666
+                "stars": 17667
               }
             },
             {
@@ -602,7 +602,7 @@
             "last_commit": "2023-01-01T18:10:58Z",
             "owner": "exelotl",
             "repo": "goodboy-advance",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:53:03.916Z",
+    "last_updated": "2026-08-24T14:10:25.203Z",
     "original_repository": "gbadev-org/awesome-gbadev",
     "original_repository_id": 161929146,
     "original_repository_sha": "387abb2e273eb91c96157758e49e7cb3e658408b",
