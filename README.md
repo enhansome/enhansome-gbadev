@@ -106,7 +106,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Emulators
 
 * [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance) ⚠️ Archived - GBA emulator with high accuracy, especially in timing and CPU emulation. Does not have debugging features.
-* [SkyEmu](https://github.com/skylersaleh/SkyEmu) ⭐ 1,241 | 🐛 255 | 🌐 C | 📅 2026-06-26 - GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.
+* [SkyEmu](https://github.com/skylersaleh/SkyEmu) ⭐ 1,242 | 🐛 255 | 🌐 C | 📅 2026-06-26 - GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.
 * [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) ⭐ 176 | 🐛 21 | 🌐 VHDL | 📅 2026-07-22 - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) ⭐ 3,276 | 🐛 131 | 🌐 C++ | 📅 2026-08-23 setup to run.
 * [mGBA](https://mgba.io) - Actively developed GBA emulator. Runs on a bunch of platforms. Text debugger through GDB stub.
 * [No$gba](https://problemkaputt.de/gba.htm) - Venerable GBA emulator. Windows only, but runs well under Wine. Not very actively maintained but still gets updates now and then. Sports graphical debugger.
@@ -166,4 +166,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
