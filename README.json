@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T13:39:01Z",
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17667
+                "stars": 17668
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2023-07-24T02:29:11Z",
                 "owner": "98devin",
                 "repo": "ada-gba-dev",
-                "stars": 12
+                "stars": 13
               }
             }
           ],
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:46:35.299Z",
+    "last_updated": "2026-08-25T06:04:15.135Z",
     "original_repository": "gbadev-org/awesome-gbadev",
     "original_repository_id": 161929146,
     "original_repository_sha": "387abb2e273eb91c96157758e49e7cb3e658408b",

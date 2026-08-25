@@ -64,7 +64,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Compilers
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,667 | 🐛 562 | 🌐 Go | 📅 2026-08-24 - An alternative Go compiler for embedded systems, that supports GBA compilation
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,668 | 🐛 562 | 🌐 Go | 📅 2026-08-24 - An alternative Go compiler for embedded systems, that supports GBA compilation
 * [gba-toolchain](https://github.com/felixjones/gba-toolchain) ⭐ 139 | 🐛 4 | 🌐 CMake | 📅 2026-04-01 - GNU Arm Embedded Toolchain based alternative to devkitARM.
 * [gvasm](https://github.com/velipso/gvasm) ⭐ 70 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-07 - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 * [devkitARM](https://devkitpro.org) - C/C++ cross-compiler toolchain, which includes libgba, libtonc, maxmod, and various tools and example projects.
@@ -81,7 +81,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 * [rath](https://github.com/stuij/rath) ⭐ 41 | 🐛 0 | 🌐 C | 📅 2022-12-12 - Forth programming environment for the Game Boy Advance
 * [meson-gba](https://github.com/LunarLambda/meson-gba) ⚠️ Archived - Meson-based GBA toolkit with support for many different libraries and tools.
 * [GBA Dlang](https://github.com/redthing1/gba_dlang) ⭐ 17 | 🐛 0 | 🌐 D | 📅 2022-02-21 - WIP SDK for GBA development using D, using LLVM toolchain. provides fully functional TONC, GBFS, Maxmod.
-* [ada-gba-dev](https://github.com/98devin/ada-gba-dev) ⭐ 12 | 🐛 3 | 🌐 Ada | 📅 2023-07-24 - A build system, libraries, and tools for producing programs for the Game Boy Advance using the Ada programming language.
+* [ada-gba-dev](https://github.com/98devin/ada-gba-dev) ⭐ 13 | 🐛 3 | 🌐 Ada | 📅 2023-07-24 - A build system, libraries, and tools for producing programs for the Game Boy Advance using the Ada programming language.
 * [dusk](https://github.com/redthing1/dusk) - Simple, lightweight, intuitive framework for GBA game development
 * [sdk-seven](https://github.com/sdk-seven) - Modern runtime and tooling, and libraries for GBA development. Works with meson-gba or standalone.
 * [agb](https://agbrs.dev) - Rust high level framework for the GBA with a build system, asset importing, tracker player and graphics abstractions.
