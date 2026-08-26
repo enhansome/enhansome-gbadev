@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 136505169,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:39:01Z",
+                "last_commit": "2026-08-25T17:14:15Z",
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17668
+                "stars": 17669
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-06T20:35:00Z",
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1750
+                "stars": 1752
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2025-02-15T17:49:00Z",
                 "owner": "exelotl",
                 "repo": "natu",
-                "stars": 250
+                "stars": 251
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2024-06-28T10:02:52Z",
                 "owner": "evanbowman",
                 "repo": "BPCore-Engine",
-                "stars": 208
+                "stars": 209
               }
             },
             {
@@ -542,7 +542,7 @@
             "last_commit": "2026-07-26T16:56:52Z",
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5063
+            "stars": 5062
           }
         },
         {
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:15.135Z",
+    "last_updated": "2026-08-26T01:52:33.946Z",
     "original_repository": "gbadev-org/awesome-gbadev",
     "original_repository_id": 161929146,
     "original_repository_sha": "387abb2e273eb91c96157758e49e7cb3e658408b",
