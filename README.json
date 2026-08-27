@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 136505169,
                 "language": "Go",
-                "last_commit": "2026-08-25T17:14:15Z",
+                "last_commit": "2026-08-27T07:09:21Z",
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17669
+                "stars": 17671
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-06T20:35:00Z",
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1752
+                "stars": 1754
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-13T04:59:10Z",
                 "owner": "rust-console",
                 "repo": "gba",
-                "stars": 723
+                "stars": 724
               }
             },
             {
@@ -190,21 +190,6 @@
                 "owner": "LunarLambda",
                 "repo": "meson-gba",
                 "stars": 25
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GBA Dlang",
-              "description": "WIP SDK for GBA development using D, using LLVM toolchain. provides fully functional TONC, GBFS, Maxmod.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 428909864,
-                "language": "D",
-                "last_commit": "2022-02-21T07:33:11Z",
-                "owner": "bmchtech",
-                "repo": "gba_dlang",
-                "stars": 17
               }
             },
             {
@@ -428,7 +413,7 @@
                 "last_commit": "2026-06-26T12:34:27Z",
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1242
+                "stars": 1244
               }
             },
             {
@@ -542,7 +527,7 @@
             "last_commit": "2026-07-26T16:56:52Z",
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5062
+            "stars": 5065
           }
         },
         {
@@ -557,7 +542,7 @@
             "last_commit": "2025-04-09T20:52:27Z",
             "owner": "JeffRuLz",
             "repo": "Celeste-Classic-GBA",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -685,7 +670,7 @@
                 "last_commit": "2026-04-09T00:01:39Z",
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 983
+                "stars": 984
               }
             },
             {
@@ -713,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:52:33.946Z",
+    "last_updated": "2026-08-27T09:28:38.783Z",
     "original_repository": "gbadev-org/awesome-gbadev",
     "original_repository_id": 161929146,
     "original_repository_sha": "387abb2e273eb91c96157758e49e7cb3e658408b",
