@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 136505169,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:09:21Z",
+                "last_commit": "2026-08-28T10:45:47Z",
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17671
-              }
+                "stars": 17674
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "felixjones",
                 "repo": "gba-toolchain",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "velipso",
                 "repo": "gvasm",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "GValiente",
                 "repo": "butano",
                 "stars": 1755
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "rust-console",
                 "repo": "gba",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "wendigojaeger",
                 "repo": "ZigGBA",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "exelotl",
                 "repo": "natu",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "evanbowman",
                 "repo": "BPCore-Engine",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "asiekierka",
                 "repo": "gbsenpai",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "JoaoBaptMG",
                 "repo": "gba-modern",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "stuij",
                 "repo": "rath",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "LunarLambda",
                 "repo": "meson-gba",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "98devin",
                 "repo": "ada-gba-dev",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             }
           ],
           "description": null,
@@ -227,7 +240,8 @@
                 "owner": "AntonioND",
                 "repo": "gbt-player",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "afska",
                 "repo": "gba-link-connection",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "felixjones",
                 "repo": "agbabi",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "sebknzl",
                 "repo": "krawall",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "stuij",
                 "repo": "apex-audio-system",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "Sterophonick",
                 "repo": "HeartLib",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "felixjones",
                 "repo": "gba-hpp",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "sverx",
                 "repo": "GBAdv",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "kusma",
                 "repo": "pimpmobile",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "sdk-seven",
                 "repo": "libseven",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "MnlPhlp",
                 "repo": "gbaLib",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             }
           ],
           "description": null,
@@ -399,7 +423,8 @@
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
                 "stars": 1309
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -413,8 +438,9 @@
                 "last_commit": "2026-06-26T12:34:27Z",
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1244
-              }
+                "stars": 1245
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "MiSTer-devel",
                 "repo": "GBA_MiSTer",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             }
           ],
           "description": null,
@@ -456,8 +483,9 @@
                 "last_commit": "2026-07-09T04:09:09Z",
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 290
-              }
+                "stars": 291
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "jsmolka",
                 "repo": "gba-tests",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -487,7 +516,8 @@
                 "owner": "mgba-emu",
                 "repo": "suite",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -502,7 +532,8 @@
                 "owner": "nba-emu",
                 "repo": "hw-test",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             }
           ],
           "description": null,
@@ -528,7 +559,8 @@
             "owner": "XProger",
             "repo": "OpenLara",
             "stars": 5065
-          }
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         },
         {
           "node_type": "item",
@@ -543,7 +575,8 @@
             "owner": "JeffRuLz",
             "repo": "Celeste-Classic-GBA",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         },
         {
           "node_type": "item",
@@ -558,7 +591,8 @@
             "owner": "doomhack",
             "repo": "GBADoom",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         },
         {
           "node_type": "item",
@@ -573,7 +607,8 @@
             "owner": "evanbowman",
             "repo": "blind-jump-portable",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         },
         {
           "node_type": "item",
@@ -587,8 +622,9 @@
             "last_commit": "2023-01-01T18:10:58Z",
             "owner": "exelotl",
             "repo": "goodboy-advance",
-            "stars": 72
-          }
+            "stars": 73
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         },
         {
           "node_type": "item",
@@ -603,7 +639,8 @@
             "owner": "pmprog",
             "repo": "TigermothGBA",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         }
       ],
       "title": "Homebrews"
@@ -623,8 +660,9 @@
             "last_commit": "2021-05-27T01:15:08Z",
             "owner": "PeterLemon",
             "repo": "GBA",
-            "stars": 144
-          }
+            "stars": 145
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         },
         {
           "node_type": "item",
@@ -639,7 +677,8 @@
             "owner": "PikalaxALT",
             "repo": "gba_bios",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         },
         {
           "node_type": "item",
@@ -654,7 +693,8 @@
             "owner": "gb-archive",
             "repo": "usenti",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T11:14:15.640Z"
         },
         {
           "children": [
@@ -671,7 +711,8 @@
                 "owner": "pret",
                 "repo": "pokeruby",
                 "stars": 984
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             },
             {
               "node_type": "item",
@@ -686,7 +727,8 @@
                 "owner": "macabeus",
                 "repo": "klo-gba.js",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
             }
           ],
           "description": null,
@@ -698,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:23.706Z",
+    "last_updated": "2026-08-28T11:14:15.640Z",
     "original_repository_info": {
       "archived": false,
       "id": 161929146,
