@@ -12,12 +12,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+                "homepage": "https://tinygo.org",
                 "id": 136505169,
                 "language": "Go",
-                "last_commit": "2026-08-28T10:45:47Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:48:48Z",
+                "open_issues": 565,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17674
+                "stars": 17676,
+                "topics": [
+                  "adafruit",
+                  "arduino",
+                  "arm",
+                  "avr",
+                  "esp32",
+                  "gpio",
+                  "i2c",
+                  "llvm",
+                  "microbit",
+                  "microcontroller",
+                  "nrf51",
+                  "nrf52",
+                  "samd21",
+                  "spi",
+                  "stm32",
+                  "tinygo",
+                  "wasi",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -28,12 +53,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CMake based toolchain for GBA homebrew development",
+                "homepage": null,
                 "id": 240962598,
                 "language": "CMake",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-01T08:44:52Z",
+                "open_issues": 4,
                 "owner": "felixjones",
                 "repo": "gba-toolchain",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -44,12 +74,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Assembler and disassembler designed specifically for Game Boy Advance homebrew.",
+                "homepage": null,
                 "id": 349545976,
                 "language": "TypeScript",
+                "license": "0BSD",
                 "last_commit": "2024-12-07T00:59:00Z",
+                "open_issues": 10,
                 "owner": "velipso",
                 "repo": "gvasm",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "arm7-tdmi",
+                  "assembler",
+                  "assembly-language",
+                  "game-boy-advance",
+                  "game-boy-advance-development",
+                  "gameboy-advance",
+                  "gameboy-advance-development",
+                  "gba",
+                  "homebrew"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             }
@@ -67,12 +112,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern C++ high level GBA engine",
+                "homepage": null,
                 "id": 231556327,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2026-08-06T20:35:00Z",
+                "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1755
+                "stars": 1756,
+                "topics": [
+                  "game-boy-advance",
+                  "game-engine",
+                  "gba",
+                  "modern-cpp"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -83,12 +138,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A crate that helps you make GBA games",
+                "homepage": "https://docs.rs/gba",
                 "id": 156644419,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T04:59:10Z",
+                "open_issues": 7,
                 "owner": "rust-console",
                 "repo": "gba",
-                "stars": 724
+                "stars": 724,
+                "topics": [
+                  "gba",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -99,12 +162,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Work in progress SDK for creating Game Boy Advance games using Zig programming language.",
+                "homepage": null,
                 "id": 226747325,
                 "language": "Zig",
+                "license": "MIT",
                 "last_commit": "2025-07-19T17:10:13Z",
+                "open_issues": 7,
                 "owner": "wendigojaeger",
                 "repo": "ZigGBA",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "gba",
+                  "sdk",
+                  "zig"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -115,12 +187,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for writing Game Boy Advance games in Nim",
+                "homepage": "https://natu.exelo.tl",
                 "id": 165449241,
                 "language": "Nim",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-15T17:49:00Z",
+                "open_issues": 0,
                 "owner": "exelotl",
                 "repo": "natu",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "gameboy-advance",
+                  "gba",
+                  "nim"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -131,12 +212,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua game framework for Gameboy Advance",
+                "homepage": null,
                 "id": 307563436,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2024-06-28T10:02:52Z",
+                "open_issues": 13,
                 "owner": "evanbowman",
                 "repo": "BPCore-Engine",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "game-engine",
+                  "gameboy-advance",
+                  "gba",
+                  "lua"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -147,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GB Studio Extended Nominal Player Adaptation/Interface",
+                "homepage": null,
                 "id": 376515527,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-07-14T17:41:09Z",
+                "open_issues": 6,
                 "owner": "asiekierka",
                 "repo": "gbsenpai",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -163,12 +259,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An attempt to create a Game Boy Advance game using Modern C++",
+                "homepage": null,
                 "id": 201576240,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-06-26T14:42:05Z",
+                "open_issues": 2,
                 "owner": "JoaoBaptMG",
                 "repo": "gba-modern",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "game",
+                  "game-engine-2d",
+                  "gba",
+                  "modern-cpp"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -179,12 +285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Forth programming environment for the Game Boy Advance",
+                "homepage": null,
                 "id": 346546404,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-12-12T14:00:41Z",
+                "open_issues": 0,
                 "owner": "stuij",
                 "repo": "rath",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -195,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Meson-based GBA toolchain",
+                "homepage": "https://lunarlambda.github.io/meson-gba-book/",
                 "id": 551848517,
                 "language": "Meson",
+                "license": "Zlib",
                 "last_commit": "2025-09-01T16:05:03Z",
+                "open_issues": 0,
                 "owner": "LunarLambda",
                 "repo": "meson-gba",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -211,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A build system, libraries, and tools for producing programs for the Game Boy Advance using the Ada programming language.",
+                "homepage": null,
                 "id": 350924312,
                 "language": "Ada",
+                "license": "Zlib",
                 "last_commit": "2023-07-24T02:29:11Z",
+                "open_issues": 3,
                 "owner": "98devin",
                 "repo": "ada-gba-dev",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             }
@@ -234,12 +355,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A music player library for the PSG audio channels of the GB, GBC and GBA.",
+                "homepage": "https://codeberg.org/SkyLyrac/gbt-player",
                 "id": 19330221,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-01-25T02:19:31Z",
+                "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "gbt-player",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "assembly",
+                  "assembly-language",
+                  "c",
+                  "demoscene",
+                  "developer-tools",
+                  "gameboy",
+                  "gameboy-advance",
+                  "tracker"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -250,12 +385,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔗 A set of Game Boy Advance (GBA) C++ libraries to interact with the Serial Port. Its main purpose is to provide multiplayer support to homebrew games.",
+                "homepage": null,
                 "id": 307125218,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-01T09:51:35Z",
+                "open_issues": 0,
                 "owner": "afska",
                 "repo": "gba-link-connection",
-                "stars": 293
+                "stars": 293,
+                "topics": [
+                  "adapter",
+                  "cable",
+                  "gameboy-advance",
+                  "gba",
+                  "gpio",
+                  "homebrew",
+                  "homebrew-games",
+                  "link",
+                  "multiboot",
+                  "multiplayer",
+                  "serial",
+                  "serialport",
+                  "spi",
+                  "uart",
+                  "wireless",
+                  "wireless-adapter"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -266,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides GBA optimized functions for some common, handy operations.",
+                "homepage": null,
                 "id": 329741943,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-10T12:16:48Z",
+                "open_issues": 3,
                 "owner": "felixjones",
                 "repo": "agbabi",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -282,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XM/S3M-Player for the Gameboy Advance (GBA)",
+                "homepage": null,
                 "id": 11385596,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2014-10-01T14:18:52Z",
+                "open_issues": 2,
                 "owner": "sebknzl",
                 "repo": "krawall",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -298,12 +465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "highly efficient sound library for the Gameboy Advance",
+                "homepage": null,
                 "id": 329775744,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-10-20T09:43:43Z",
+                "open_issues": 2,
                 "owner": "stuij",
                 "repo": "apex-audio-system",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -314,12 +486,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Comprehensive API for Nintendo GBA inspired by HAMLib and HELlib.",
+                "homepage": null,
                 "id": 208104698,
                 "language": "Assembly",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-19T19:52:46Z",
+                "open_issues": 0,
                 "owner": "Sterophonick",
                 "repo": "HeartLib",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "gba",
+                  "hamlib",
+                  "homebrew",
+                  "nintendo-gba"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -330,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ header-only library for GBA development",
+                "homepage": null,
                 "id": 463892684,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-20T11:04:05Z",
+                "open_issues": 0,
                 "owner": "felixjones",
                 "repo": "gba-hpp",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -346,12 +533,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GameBoyAdvance graphical core registers wrapper functions... and a bit more.",
+                "homepage": null,
                 "id": 25964456,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-12-15T11:00:01Z",
+                "open_issues": 0,
                 "owner": "sverx",
                 "repo": "GBAdv",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "background",
+                  "nintendo-gameboyadvance",
+                  "retroprogramming",
+                  "sprites",
+                  "wrapper-functions"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -362,12 +560,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pimpmobile - music playback for the Nintendo Game Boy Advance",
+                "homepage": null,
                 "id": 359510,
                 "language": "C",
+                "license": "Zlib",
                 "last_commit": "2022-04-07T10:52:37Z",
+                "open_issues": 0,
                 "owner": "kusma",
                 "repo": "pimpmobile",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "audio",
+                  "audio-player",
+                  "gba"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -378,12 +585,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Optimized GBA Hardware Access Library for C",
+                "homepage": null,
                 "id": 709187848,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2024-06-03T11:21:43Z",
+                "open_issues": 1,
                 "owner": "sdk-seven",
                 "repo": "libseven",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -394,12 +606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "library for programming the GBA with TinyGo",
+                "homepage": null,
                 "id": 353697084,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-10-29T13:12:33Z",
+                "open_issues": 0,
                 "owner": "MnlPhlp",
                 "repo": "gbaLib",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             }
@@ -417,12 +634,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A cycle-accurate Nintendo Game Boy Advance emulator.",
+                "homepage": "https://nanoboyadvance.eu",
                 "id": 40276038,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-21T12:22:20Z",
+                "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1309
+                "stars": 1309,
+                "topics": [
+                  "cycle-accurate",
+                  "emulator",
+                  "emulator-development",
+                  "gameboy-advance",
+                  "gameboy-advance-emulator",
+                  "gba"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -433,12 +662,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator",
+                "homepage": "http://skyemu.app",
                 "id": 369374514,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-26T12:34:27Z",
+                "open_issues": 256,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1245
+                "stars": 1245,
+                "topics": [
+                  "emulation",
+                  "emulator",
+                  "gameboy",
+                  "gameboy-advance",
+                  "gameboy-color",
+                  "gameboy-emulator",
+                  "nintendo-ds",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -449,12 +692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GBA for MiSTer",
+                "homepage": null,
                 "id": 223771908,
                 "language": "VHDL",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-22T05:10:54Z",
+                "open_issues": 21,
                 "owner": "MiSTer-devel",
                 "repo": "GBA_MiSTer",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             }
@@ -478,12 +726,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Size-optimized ports of Artemio's 240p Test Suite to 8-bit consoles",
+                "homepage": null,
                 "id": 132848090,
                 "language": "Assembly",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-09T04:09:09Z",
+                "open_issues": 8,
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 291
+                "stars": 291,
+                "topics": [
+                  "gameboy",
+                  "nes"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -494,12 +750,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Game Boy Advance tests.",
+                "homepage": null,
                 "id": 230740849,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2025-04-19T14:42:59Z",
+                "open_issues": 0,
                 "owner": "jsmolka",
                 "repo": "gba-tests",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "asm",
+                  "gameboy-advance",
+                  "gba",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -510,12 +776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game Boy Advance Test Suite",
+                "homepage": null,
                 "id": 37803788,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-09T00:15:20Z",
+                "open_issues": 9,
                 "owner": "mgba-emu",
                 "repo": "suite",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -526,12 +797,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GBA hardware tests that are developed to further accurate emulation.",
+                "homepage": null,
                 "id": 407876362,
                 "language": "Makefile",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-21T13:33:06Z",
+                "open_issues": 1,
                 "owner": "nba-emu",
                 "repo": "hw-test",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             }
@@ -553,12 +829,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Classic Tomb Raider open-source engine",
+            "homepage": "http://xproger.info/projects/OpenLara/",
             "id": 65638810,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-26T16:56:52Z",
+            "open_issues": 167,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5065
+            "stars": 5065,
+            "topics": [
+              "openlara",
+              "tombraider"
+            ]
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         },
@@ -569,12 +853,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Celeste Classic ported to the Game Boy Advance",
+            "homepage": null,
             "id": 200132457,
             "language": "C",
+            "license": null,
             "last_commit": "2025-04-09T20:52:27Z",
+            "open_issues": 2,
             "owner": "JeffRuLz",
             "repo": "Celeste-Classic-GBA",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "gba",
+              "homebrew"
+            ]
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         },
@@ -585,12 +877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of prBoom to the Nintendo GBA.",
+            "homepage": null,
             "id": 208338677,
             "language": "C",
+            "license": null,
             "last_commit": "2025-09-29T22:22:57Z",
+            "open_issues": 24,
             "owner": "doomhack",
             "repo": "GBADoom",
-            "stars": 294
+            "stars": 295,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         },
@@ -601,12 +898,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Action/adventure game for the Nintendo GameBoy Advance and Sony PSP",
+            "homepage": null,
             "id": 193804028,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-07-07T19:53:09Z",
+            "open_issues": 4,
             "owner": "evanbowman",
             "repo": "blind-jump-portable",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "cpp",
+              "cpp17",
+              "game",
+              "gameboy-advance",
+              "gameboy-development",
+              "gba",
+              "gba-game",
+              "indiegame",
+              "multiplayer",
+              "playstation-portable",
+              "psp"
+            ]
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         },
@@ -617,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a GBA game made in 3 days for Ludum Dare 43",
+            "homepage": null,
             "id": 230341490,
             "language": "C",
+            "license": null,
             "last_commit": "2023-01-01T18:10:58Z",
+            "open_issues": 0,
             "owner": "exelotl",
             "repo": "goodboy-advance",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         },
@@ -633,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tigermoth is a bullet hell shooter for the Gameboy Advance - see https://pmprog.itch.io/tigermoth",
+            "homepage": null,
             "id": 372055179,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-06-19T20:34:12Z",
+            "open_issues": 0,
             "owner": "pmprog",
             "repo": "TigermothGBA",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         }
@@ -655,12 +979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game Boy Advance Bare Metal Assembly Programming",
+            "homepage": null,
             "id": 38714199,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2021-05-27T01:15:08Z",
+            "open_issues": 1,
             "owner": "PeterLemon",
             "repo": "GBA",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         },
@@ -671,12 +1000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disassembly of the Game Boy Advance BIOS",
+            "homepage": null,
             "id": 167451499,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-08-09T01:02:33Z",
+            "open_issues": 1,
             "owner": "PikalaxALT",
             "repo": "gba_bios",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         },
@@ -687,12 +1021,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Usenti archive",
+            "homepage": "https://gb-archive.github.io/usenti/",
             "id": 834526555,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-28T01:43:33Z",
+            "open_issues": 0,
             "owner": "gb-archive",
             "repo": "usenti",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "gba",
+              "gba-development",
+              "gbadev",
+              "tonc"
+            ]
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
         },
@@ -705,12 +1049,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decompilation of Pokémon Ruby/Sapphire",
+                "homepage": null,
                 "id": 50256891,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-04-09T00:01:39Z",
+                "open_issues": 32,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 984
+                "stars": 984,
+                "topics": [
+                  "c",
+                  "decompilation",
+                  "gameboy-advance",
+                  "pokemon",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             },
@@ -721,12 +1076,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧢 Reverse engineering tool for the Klonoa's GBA game ",
+                "homepage": "http://macabeus.github.io/klo-gba.js/",
                 "id": 171056605,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-01T20:33:28Z",
+                "open_issues": 4,
                 "owner": "macabeus",
                 "repo": "klo-gba.js",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "canvas",
+                  "hacktoberfest",
+                  "nodejs",
+                  "reverse-engineering",
+                  "rom-hacking",
+                  "romhacking"
+                ]
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
             }
@@ -740,15 +1107,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:14:15.640Z",
+    "last_updated": "2026-08-29T04:32:29.928Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Game Boy Advance development resources",
+      "homepage": "https://gbadev.net",
       "id": 161929146,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-01-30T13:27:32Z",
+      "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1334
+      "stars": 1334,
+      "topics": [
+        "awesome-list",
+        "emulator-development",
+        "game-boy-advance",
+        "gameboy-advance",
+        "gba",
+        "gba-emulator",
+        "resource-list",
+        "resources"
+      ]
     },
     "original_repository_sha": "387abb2e273eb91c96157758e49e7cb3e658408b",
     "enhanced_repository": "enhansome/enhansome-gbadev",
