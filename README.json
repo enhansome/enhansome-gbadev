@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T06:41:43Z",
+                "last_commit": "2026-08-29T15:18:16Z",
                 "open_issues": 564,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17676,
+                "stars": 17677,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -254,32 +254,6 @@
             },
             {
               "node_type": "item",
-              "title": "gba-modern",
-              "description": "Write GBA games using modern C++.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An attempt to create a Game Boy Advance game using Modern C++",
-                "homepage": null,
-                "id": 201576240,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2023-06-26T14:42:05Z",
-                "open_issues": 2,
-                "owner": "JoaoBaptMG",
-                "repo": "gba-modern",
-                "stars": 88,
-                "topics": [
-                  "game",
-                  "game-engine-2d",
-                  "gba",
-                  "modern-cpp"
-                ]
-              },
-              "first_seen": "2026-08-28T11:14:15.640Z"
-            },
-            {
-              "node_type": "item",
               "title": "rath",
               "description": "Forth programming environment for the Game Boy Advance",
               "children": [],
@@ -394,7 +368,7 @@
                 "open_issues": 0,
                 "owner": "afska",
                 "repo": "gba-link-connection",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "adapter",
                   "cable",
@@ -643,7 +617,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1309,
+                "stars": 1310,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -668,10 +642,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-06-26T12:34:27Z",
-                "open_issues": 256,
+                "open_issues": 257,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1246,
+                "stars": 1247,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -886,7 +860,7 @@
             "open_issues": 24,
             "owner": "doomhack",
             "repo": "GBADoom",
-            "stars": 295,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
@@ -1107,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T06:57:44.723Z",
+    "last_updated": "2026-08-30T05:13:57.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
