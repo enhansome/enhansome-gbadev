@@ -64,14 +64,14 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Compilers
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,677 | 🐛 564 | 🌐 Go | 📅 2026-08-29 - An alternative Go compiler for embedded systems, that supports GBA compilation
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,680 | 🐛 570 | 🌐 Go | 📅 2026-08-30 - An alternative Go compiler for embedded systems, that supports GBA compilation
 * [gba-toolchain](https://github.com/felixjones/gba-toolchain) ⭐ 139 | 🐛 4 | 🌐 CMake | 📅 2026-04-01 - GNU Arm Embedded Toolchain based alternative to devkitARM.
 * [gvasm](https://github.com/velipso/gvasm) ⭐ 70 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-07 - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 * [devkitARM](https://devkitpro.org) - C/C++ cross-compiler toolchain, which includes libgba, libtonc, maxmod, and various tools and example projects.
 
 ## Toolkits
 
-* [Butano](https://github.com/GValiente/butano) ⭐ 1,756 | 🐛 0 | 🌐 C++ | 📅 2026-08-06 - Modern C++ high level engine for the GBA.
+* [Butano](https://github.com/GValiente/butano) ⭐ 1,757 | 🐛 0 | 🌐 C++ | 📅 2026-08-06 - Modern C++ high level engine for the GBA.
 * [rust-console](https://github.com/rust-console/gba) ⭐ 724 | 🐛 7 | 🌐 Rust | 📅 2026-08-13 - GBA programming in Rust, plus tutorial.
 * [ZigGBA](https://github.com/wendigojaeger/ZigGBA) ⭐ 387 | 🐛 7 | 🌐 Zig | 📅 2025-07-19 - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
 * [natu](https://github.com/exelotl/natu) ⭐ 251 | 🐛 0 | 🌐 Nim | 📅 2025-02-15 - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
@@ -89,7 +89,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Libraries
 
 * [GBT Player](https://github.com/AntonioND/gbt-player) ⭐ 304 | 🐛 0 | 🌐 C | 📅 2026-01-25 - Music library that uses the DMG sound channels (close to 0% CPU usage).
-* [gba-link-connection](https://github.com/afska/gba-link-connection) ⭐ 294 | 🐛 0 | 🌐 C++ | 📅 2026-08-01: A set of C++ libraries to interact with the Serial Port (Link Cable, Wireless Adapter, GPIO, SPI)
+* [gba-link-connection](https://github.com/afska/gba-link-connection) ⭐ 295 | 🐛 0 | 🌐 C++ | 📅 2026-08-01: A set of C++ libraries to interact with the Serial Port (Link Cable, Wireless Adapter, GPIO, SPI)
 * [agbabi](https://github.com/felixjones/agbabi) ⭐ 79 | 🐛 3 | 🌐 C | 📅 2024-05-10 - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
 * [Krawall](https://github.com/sebknzl/krawall) ⭐ 69 | 🐛 2 | 🌐 C | 📅 2014-10-01 - Music and sound library (supports .xm, .s3m)
 * [Apex Audio System](https://github.com/stuij/apex-audio-system) ⭐ 52 | 🐛 2 | 🌐 C | 📅 2023-10-20 - Music and sound library (supports .mod only, but *very* good performance)
@@ -124,7 +124,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 # Homebrews
 
 * [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,065 | 🐛 167 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine
-* [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) ⭐ 396 | 🐛 2 | 🌐 C | 📅 2025-04-09 - 2019 port of Pico8 version of Celeste.
+* [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) ⭐ 397 | 🐛 2 | 🌐 C | 📅 2025-04-09 - 2019 port of Pico8 version of Celeste.
 * [GBADoom](https://github.com/doomhack/GBADoom) ⭐ 296 | 🐛 24 | 🌐 C | 📅 2025-09-29 - 2019/2020 GBA port of prBoom version of Doom.
 * [BlindJump](https://github.com/evanbowman/blind-jump-portable) ⭐ 232 | 🐛 4 | 🌐 C++ | 📅 2023-07-07 - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
 * [Goodboy Advance](https://github.com/exelotl/goodboy-advance) ⭐ 73 | 🐛 0 | 🌐 C | 📅 2023-01-01 - Made in 2018, and has a nice bit of information on how it's made.
@@ -156,7 +156,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Reverse engineering
 
-* [Pokemon Ruby](https://github.com/pret/pokeruby) ⭐ 984 | 🐛 32 | 🌐 C | 📅 2026-04-09 - C programming language annotation of a Pokemon Ruby disassembly
+* [Pokemon Ruby](https://github.com/pret/pokeruby) ⭐ 983 | 🐛 32 | 🌐 C | 📅 2026-04-09 - C programming language annotation of a Pokemon Ruby disassembly
 * [Reverse Engineering a GameBoy Advance Game](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02) - A series of detailed posts and talks about developing a [level editor](https://github.com/macabeus/klo-gba.js) ⭐ 166 | 🐛 4 | 🌐 JavaScript | 📅 2023-10-01 for *Klonoa: Empire of Dreams*
 
 ## Historical links
@@ -166,4 +166,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

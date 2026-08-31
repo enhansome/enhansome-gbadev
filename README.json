@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T15:18:16Z",
-                "open_issues": 564,
+                "last_commit": "2026-08-30T18:40:00Z",
+                "open_issues": 570,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17677,
+                "stars": 17680,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1756,
+                "stars": 1757,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -368,7 +368,7 @@
                 "open_issues": 0,
                 "owner": "afska",
                 "repo": "gba-link-connection",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "adapter",
                   "cable",
@@ -836,7 +836,7 @@
             "open_issues": 2,
             "owner": "JeffRuLz",
             "repo": "Celeste-Classic-GBA",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "gba",
               "homebrew"
@@ -1032,7 +1032,7 @@
                 "open_issues": 32,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 984,
+                "stars": 983,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:13:57.474Z",
+    "last_updated": "2026-08-31T05:21:39.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
