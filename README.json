@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T18:40:00Z",
-                "open_issues": 570,
+                "last_commit": "2026-08-31T21:07:26Z",
+                "open_issues": 571,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17680,
+                "stars": 17685,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -812,7 +812,7 @@
             "open_issues": 167,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5065,
+            "stars": 5066,
             "topics": [
               "openlara",
               "tombraider"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:21:39.845Z",
+    "last_updated": "2026-09-01T04:56:22.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1334,
+      "stars": 1335,
       "topics": [
         "awesome-list",
         "emulator-development",
