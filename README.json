@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T21:07:26Z",
-                "open_issues": 571,
+                "last_commit": "2026-09-01T07:05:30Z",
+                "open_issues": 566,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17685,
+                "stars": 17687,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1757,
+                "stars": 1756,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -406,7 +406,7 @@
                 "open_issues": 3,
                 "owner": "felixjones",
                 "repo": "agbabi",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -495,7 +495,7 @@
                 "open_issues": 0,
                 "owner": "felixjones",
                 "repo": "gba-hpp",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -617,7 +617,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1310,
+                "stars": 1311,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -642,10 +642,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-06-26T12:34:27Z",
-                "open_issues": 257,
+                "open_issues": 258,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1247,
+                "stars": 1250,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T04:56:22.908Z",
+    "last_updated": "2026-09-02T04:19:06.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
