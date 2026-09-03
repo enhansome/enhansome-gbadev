@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T07:05:30Z",
-                "open_issues": 566,
+                "last_commit": "2026-09-02T17:53:48Z",
+                "open_issues": 568,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17687,
+                "stars": 17690,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1756,
+                "stars": 1757,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -147,7 +147,7 @@
                 "open_issues": 7,
                 "owner": "rust-console",
                 "repo": "gba",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "gba",
                   "rust"
@@ -812,7 +812,7 @@
             "open_issues": 167,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5066,
+            "stars": 5068,
             "topics": [
               "openlara",
               "tombraider"
@@ -881,7 +881,7 @@
             "open_issues": 4,
             "owner": "evanbowman",
             "repo": "blind-jump-portable",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "cpp",
               "cpp17",
@@ -1032,7 +1032,7 @@
                 "open_issues": 32,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 983,
+                "stars": 984,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:19:06.752Z",
+    "last_updated": "2026-09-03T04:13:33.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1335,
+      "stars": 1337,
       "topics": [
         "awesome-list",
         "emulator-development",
