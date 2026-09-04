@@ -21,7 +21,7 @@
                 "open_issues": 568,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17690,
+                "stars": 17692,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -617,7 +617,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1311,
+                "stars": 1310,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -812,7 +812,7 @@
             "open_issues": 167,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5068,
+            "stars": 5069,
             "topics": [
               "openlara",
               "tombraider"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:13:33.542Z",
+    "last_updated": "2026-09-04T04:20:23.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
