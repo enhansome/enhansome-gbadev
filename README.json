@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T07:15:33Z",
-                "open_issues": 557,
+                "last_commit": "2026-09-09T15:17:13Z",
+                "open_issues": 556,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17708,
+                "stars": 17711,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1762,
+                "stars": 1763,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -809,10 +809,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-26T16:56:52Z",
-            "open_issues": 167,
+            "open_issues": 164,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5074,
+            "stars": 5075,
             "topics": [
               "openlara",
               "tombraider"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T04:29:34.544Z",
+    "last_updated": "2026-09-10T04:28:18.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1339,
+      "stars": 1340,
       "topics": [
         "awesome-list",
         "emulator-development",
