@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T14:28:36Z",
-                "open_issues": 533,
+                "last_commit": "2026-09-26T02:10:13Z",
+                "open_issues": 535,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17784,
+                "stars": 17787,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -645,7 +645,7 @@
                 "open_issues": 260,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1270,
+                "stars": 1271,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -812,7 +812,7 @@
             "open_issues": 165,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5111,
+            "stars": 5110,
             "topics": [
               "openlara",
               "tombraider"
@@ -836,7 +836,7 @@
             "open_issues": 2,
             "owner": "JeffRuLz",
             "repo": "Celeste-Classic-GBA",
-            "stars": 399,
+            "stars": 401,
             "topics": [
               "gba",
               "homebrew"
@@ -1032,7 +1032,7 @@
                 "open_issues": 33,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 988,
+                "stars": 991,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T04:45:54.786Z",
+    "last_updated": "2026-09-26T04:47:12.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1340,
+      "stars": 1341,
       "topics": [
         "awesome-list",
         "emulator-development",
