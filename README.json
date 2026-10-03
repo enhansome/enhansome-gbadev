@@ -17,8 +17,8 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T00:04:54Z",
-                "open_issues": 540,
+                "last_commit": "2026-10-02T10:21:13Z",
+                "open_issues": 543,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
                 "stars": 17802,
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1793,
+                "stars": 1794,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -720,7 +720,7 @@
             {
               "node_type": "item",
               "title": "GBA Suite",
-              "description": null,
+              "description": "jsmolka/gba-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -746,7 +746,7 @@
             {
               "node_type": "item",
               "title": "mGBA test suite",
-              "description": null,
+              "description": "mgba-emu/suite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -759,7 +759,7 @@
                 "open_issues": 9,
                 "owner": "mgba-emu",
                 "repo": "suite",
-                "stars": 102,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -767,7 +767,7 @@
             {
               "node_type": "item",
               "title": "NBA hardware tests",
-              "description": null,
+              "description": "nba-emu/hw-test",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -812,7 +812,7 @@
             "open_issues": 165,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5111,
+            "stars": 5112,
             "topics": [
               "openlara",
               "tombraider"
@@ -1032,7 +1032,7 @@
                 "open_issues": 35,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 995,
+                "stars": 996,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:24:57.985Z",
+    "last_updated": "2026-10-03T04:46:53.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
