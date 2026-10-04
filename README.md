@@ -64,7 +64,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Compilers
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,802 | 🐛 543 | 🌐 Go | 📅 2026-10-02 - An alternative Go compiler for embedded systems, that supports GBA compilation
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,802 | 🐛 545 | 🌐 Go | 📅 2026-10-02 - An alternative Go compiler for embedded systems, that supports GBA compilation
 * [gba-toolchain](https://github.com/felixjones/gba-toolchain) ⭐ 140 | 🐛 2 | 🌐 CMake | 📅 2026-09-19 - GNU Arm Embedded Toolchain based alternative to devkitARM.
 * [gvasm](https://github.com/velipso/gvasm) ⭐ 71 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-07 - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 * [devkitARM](https://devkitpro.org) - C/C++ cross-compiler toolchain, which includes libgba, libtonc, maxmod, and various tools and example projects.
@@ -73,7 +73,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 * [Butano](https://github.com/GValiente/butano) ⭐ 1,794 | 🐛 0 | 🌐 C++ | 📅 2026-09-28 - Modern C++ high level engine for the GBA.
 * [rust-console](https://github.com/rust-console/gba) ⭐ 726 | 🐛 7 | 🌐 Rust | 📅 2026-08-13 - GBA programming in Rust, plus tutorial.
-* [ZigGBA](https://github.com/wendigojaeger/ZigGBA) ⭐ 387 | 🐛 7 | 🌐 Zig | 📅 2025-07-19 - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
+* [ZigGBA](https://github.com/wendigojaeger/ZigGBA) ⭐ 388 | 🐛 7 | 🌐 Zig | 📅 2025-07-19 - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
 * [natu](https://github.com/exelotl/natu) ⭐ 252 | 🐛 0 | 🌐 Nim | 📅 2025-02-15 - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
 * [BPCore Engine](https://github.com/evanbowman/BPCore-Engine) ⭐ 209 | 🐛 13 | 🌐 C++ | 📅 2024-06-28 - Create GBA applications with the Lua programming language
 * [gbsenpai](https://github.com/asiekierka/gbsenpai) ⚠️ Archived - GB Studio player GBA port with some enhancements.
@@ -116,14 +116,14 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Testing
 
-* [240p-test-mini](https://github.com/pinobatch/240p-test-mini) ⭐ 292 | 🐛 8 | 🌐 Assembly | 📅 2026-07-09 - video signal tests
+* [240p-test-mini](https://github.com/pinobatch/240p-test-mini) ⭐ 293 | 🐛 8 | 🌐 Assembly | 📅 2026-07-09 - video signal tests
 * [GBA Suite](https://github.com/jsmolka/gba-suite) ⭐ 135 | 🐛 0 | 🌐 Assembly | 📅 2025-04-19
 * [mGBA test suite](https://github.com/mgba-emu/suite) ⭐ 101 | 🐛 9 | 🌐 C | 📅 2026-07-09
 * [NBA hardware tests](https://github.com/nba-emu/hw-test) ⚠️ Archived
 
 # Homebrews
 
-* [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,112 | 🐛 165 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine
+* [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,111 | 🐛 165 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine
 * [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) ⭐ 402 | 🐛 2 | 🌐 C | 📅 2025-04-09 - 2019 port of Pico8 version of Celeste.
 * [GBADoom](https://github.com/doomhack/GBADoom) ⭐ 298 | 🐛 24 | 🌐 C | 📅 2025-09-29 - 2019/2020 GBA port of prBoom version of Doom.
 * [BlindJump](https://github.com/evanbowman/blind-jump-portable) ⭐ 234 | 🐛 4 | 🌐 C++ | 📅 2023-07-07 - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
@@ -156,7 +156,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Reverse engineering
 
-* [Pokemon Ruby](https://github.com/pret/pokeruby) ⭐ 996 | 🐛 35 | 🌐 C | 📅 2026-09-29 - C programming language annotation of a Pokemon Ruby disassembly
+* [Pokemon Ruby](https://github.com/pret/pokeruby) ⭐ 997 | 🐛 35 | 🌐 C | 📅 2026-09-29 - C programming language annotation of a Pokemon Ruby disassembly
 * [Reverse Engineering a GameBoy Advance Game](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02) - A series of detailed posts and talks about developing a [level editor](https://github.com/macabeus/klo-gba.js) ⭐ 166 | 🐛 4 | 🌐 JavaScript | 📅 2023-10-01 for *Klonoa: Empire of Dreams*
 
 ## Historical links
@@ -166,4 +166,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
