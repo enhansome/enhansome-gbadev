@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T10:21:13Z",
-                "open_issues": 550,
+                "last_commit": "2026-10-06T10:14:23Z",
+                "open_issues": 551,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17804,
+                "stars": 17802,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -645,7 +645,7 @@
                 "open_issues": 260,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1278,
+                "stars": 1279,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:10:26.536Z",
+    "last_updated": "2026-10-06T10:26:32.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
