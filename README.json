@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T13:09:19Z",
-                "open_issues": 556,
+                "open_issues": 558,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17803,
+                "stars": 17804,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -117,11 +117,11 @@
                 "id": 231556327,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-05T12:15:49Z",
+                "last_commit": "2026-10-07T14:53:28Z",
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1796,
+                "stars": 1797,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -617,7 +617,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1309,
+                "stars": 1307,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -812,7 +812,7 @@
             "open_issues": 165,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5112,
+            "stars": 5114,
             "topics": [
               "openlara",
               "tombraider"
@@ -856,7 +856,7 @@
             "id": 208338677,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-07T00:02:09Z",
+            "last_commit": "2026-10-07T23:17:49Z",
             "open_issues": 24,
             "owner": "doomhack",
             "repo": "GBADoom",
@@ -914,7 +914,7 @@
             "open_issues": 0,
             "owner": "exelotl",
             "repo": "goodboy-advance",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T05:45:16.093Z",
+    "last_updated": "2026-10-08T05:52:02.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1347,
+      "stars": 1349,
       "topics": [
         "awesome-list",
         "emulator-development",
