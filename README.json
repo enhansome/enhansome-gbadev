@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T13:09:19Z",
-                "open_issues": 558,
+                "last_commit": "2026-10-08T19:23:25Z",
+                "open_issues": 566,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17804,
+                "stars": 17808,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -147,7 +147,7 @@
                 "open_issues": 7,
                 "owner": "rust-console",
                 "repo": "gba",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "gba",
                   "rust"
@@ -641,8 +641,8 @@
                 "id": 369374514,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-11T08:18:33Z",
-                "open_issues": 260,
+                "last_commit": "2026-10-08T07:50:57Z",
+                "open_issues": 259,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
                 "stars": 1279,
@@ -809,7 +809,7 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-26T16:56:52Z",
-            "open_issues": 165,
+            "open_issues": 166,
             "owner": "XProger",
             "repo": "OpenLara",
             "stars": 5114,
@@ -856,7 +856,7 @@
             "id": 208338677,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-07T23:17:49Z",
+            "last_commit": "2026-10-09T01:03:29Z",
             "open_issues": 24,
             "owner": "doomhack",
             "repo": "GBADoom",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T05:52:02.934Z",
+    "last_updated": "2026-10-09T05:58:21.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
