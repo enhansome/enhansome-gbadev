@@ -64,14 +64,14 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Compilers
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,808 | 🐛 566 | 🌐 Go | 📅 2026-10-08 - An alternative Go compiler for embedded systems, that supports GBA compilation
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,808 | 🐛 562 | 🌐 Go | 📅 2026-10-09 - An alternative Go compiler for embedded systems, that supports GBA compilation
 * [gba-toolchain](https://github.com/felixjones/gba-toolchain) ⭐ 139 | 🐛 2 | 🌐 CMake | 📅 2026-09-19 - GNU Arm Embedded Toolchain based alternative to devkitARM.
 * [gvasm](https://github.com/velipso/gvasm) ⭐ 71 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-07 - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 * [devkitARM](https://devkitpro.org) - C/C++ cross-compiler toolchain, which includes libgba, libtonc, maxmod, and various tools and example projects.
 
 ## Toolkits
 
-* [Butano](https://github.com/GValiente/butano) ⭐ 1,797 | 🐛 0 | 🌐 C++ | 📅 2026-10-07 - Modern C++ high level engine for the GBA.
+* [Butano](https://github.com/GValiente/butano) ⭐ 1,797 | 🐛 0 | 🌐 C++ | 📅 2026-10-09 - Modern C++ high level engine for the GBA.
 * [rust-console](https://github.com/rust-console/gba) ⭐ 727 | 🐛 7 | 🌐 Rust | 📅 2026-08-13 - GBA programming in Rust, plus tutorial.
 * [ZigGBA](https://github.com/wendigojaeger/ZigGBA) ⭐ 388 | 🐛 7 | 🌐 Zig | 📅 2025-07-19 - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
 * [natu](https://github.com/exelotl/natu) ⭐ 252 | 🐛 0 | 🌐 Nim | 📅 2025-02-15 - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
@@ -125,8 +125,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 * [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,114 | 🐛 166 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine
 * [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) ⭐ 402 | 🐛 2 | 🌐 C | 📅 2025-04-09 - 2019 port of Pico8 version of Celeste.
-* [GBADoom](https://github.com/doomhack/GBADoom) ⭐ 298 | 🐛 24 | 🌐 C | 📅 2026-10-09 - 2019/2020 GBA port of prBoom version of Doom.
-* [BlindJump](https://github.com/evanbowman/blind-jump-portable) ⭐ 234 | 🐛 4 | 🌐 C++ | 📅 2023-07-07 - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
+* [GBADoom](https://github.com/doomhack/GBADoom) ⭐ 298 | 🐛 24 | 🌐 C | 📅 2026-10-10 - 2019/2020 GBA port of prBoom version of Doom.
+* [BlindJump](https://github.com/evanbowman/blind-jump-portable) ⭐ 235 | 🐛 4 | 🌐 C++ | 📅 2023-07-07 - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
 * [Goodboy Advance](https://github.com/exelotl/goodboy-advance) ⭐ 75 | 🐛 0 | 🌐 C | 📅 2023-01-01 - Made in 2018, and has a nice bit of information on how it's made.
 * [Tigermoth](https://github.com/pmprog/TigermothGBA) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2021-06-19 - Bullet hell game, developed for the GBAJam 2021
 * [Duster](https://github.com/redthing1/duster) - A sleek strategy board game for the gba
@@ -156,7 +156,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Reverse engineering
 
-* [Pokemon Ruby](https://github.com/pret/pokeruby) ⭐ 998 | 🐛 35 | 🌐 C | 📅 2026-09-29 - C programming language annotation of a Pokemon Ruby disassembly
+* [Pokemon Ruby](https://github.com/pret/pokeruby) ⭐ 1,000 | 🐛 35 | 🌐 C | 📅 2026-09-29 - C programming language annotation of a Pokemon Ruby disassembly
 * [Reverse Engineering a GameBoy Advance Game](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02) - A series of detailed posts and talks about developing a [level editor](https://github.com/macabeus/klo-gba.js) ⭐ 166 | 🐛 4 | 🌐 JavaScript | 📅 2023-10-01 for *Klonoa: Empire of Dreams*
 
 ## Historical links
@@ -166,4 +166,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
