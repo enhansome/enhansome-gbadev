@@ -17,7 +17,7 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T03:48:40Z",
+                "last_commit": "2026-10-12T21:31:00Z",
                 "open_issues": 561,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
@@ -117,7 +117,7 @@
                 "id": 231556327,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-09T08:17:56Z",
+                "last_commit": "2026-10-12T05:48:42Z",
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
@@ -617,7 +617,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -641,11 +641,11 @@
                 "id": 369374514,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-11T10:09:17Z",
-                "open_issues": 254,
+                "last_commit": "2026-10-13T01:43:12Z",
+                "open_issues": 250,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1293,
+                "stars": 1296,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -759,7 +759,7 @@
                 "open_issues": 9,
                 "owner": "mgba-emu",
                 "repo": "suite",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -809,10 +809,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-26T16:56:52Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5117,
+            "stars": 5118,
             "topics": [
               "openlara",
               "tombraider"
@@ -856,11 +856,11 @@
             "id": 208338677,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-11T19:51:03Z",
+            "last_commit": "2026-10-12T22:58:40Z",
             "open_issues": 24,
             "owner": "doomhack",
             "repo": "GBADoom",
-            "stars": 299,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T05:45:52.872Z",
+    "last_updated": "2026-10-13T06:40:25.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
