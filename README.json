@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T14:51:17Z",
-                "open_issues": 570,
+                "last_commit": "2026-10-15T23:29:11Z",
+                "open_issues": 569,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17815,
+                "stars": 17818,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -117,11 +117,11 @@
                 "id": 231556327,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-12T05:48:42Z",
+                "last_commit": "2026-10-15T12:45:05Z",
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1799,
+                "stars": 1800,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -364,7 +364,7 @@
                 "id": 307125218,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-01T09:51:35Z",
+                "last_commit": "2026-10-15T23:30:23Z",
                 "open_issues": 0,
                 "owner": "afska",
                 "repo": "gba-link-connection",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T04:25:33.309Z",
+    "last_updated": "2026-10-16T04:20:30.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1353,
+      "stars": 1354,
       "topics": [
         "awesome-list",
         "emulator-development",

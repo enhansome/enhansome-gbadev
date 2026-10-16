@@ -64,14 +64,14 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Compilers
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,815 | 🐛 570 | 🌐 Go | 📅 2026-10-14 - An alternative Go compiler for embedded systems, that supports GBA compilation
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,818 | 🐛 569 | 🌐 Go | 📅 2026-10-15 - An alternative Go compiler for embedded systems, that supports GBA compilation
 * [gba-toolchain](https://github.com/felixjones/gba-toolchain) ⭐ 139 | 🐛 2 | 🌐 CMake | 📅 2026-09-19 - GNU Arm Embedded Toolchain based alternative to devkitARM.
 * [gvasm](https://github.com/velipso/gvasm) ⭐ 71 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-07 - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 * [devkitARM](https://devkitpro.org) - C/C++ cross-compiler toolchain, which includes libgba, libtonc, maxmod, and various tools and example projects.
 
 ## Toolkits
 
-* [Butano](https://github.com/GValiente/butano) ⭐ 1,799 | 🐛 0 | 🌐 C++ | 📅 2026-10-12 - Modern C++ high level engine for the GBA.
+* [Butano](https://github.com/GValiente/butano) ⭐ 1,800 | 🐛 0 | 🌐 C++ | 📅 2026-10-15 - Modern C++ high level engine for the GBA.
 * [rust-console](https://github.com/rust-console/gba) ⭐ 726 | 🐛 7 | 🌐 Rust | 📅 2026-08-13 - GBA programming in Rust, plus tutorial.
 * [ZigGBA](https://github.com/wendigojaeger/ZigGBA) ⭐ 388 | 🐛 7 | 🌐 Zig | 📅 2025-07-19 - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
 * [natu](https://github.com/exelotl/natu) ⭐ 252 | 🐛 0 | 🌐 Nim | 📅 2025-02-15 - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
@@ -89,7 +89,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Libraries
 
 * [GBT Player](https://github.com/AntonioND/gbt-player) ⭐ 305 | 🐛 0 | 🌐 C | 📅 2026-10-06 - Music library that uses the DMG sound channels (close to 0% CPU usage).
-* [gba-link-connection](https://github.com/afska/gba-link-connection) ⭐ 298 | 🐛 0 | 🌐 C++ | 📅 2026-08-01: A set of C++ libraries to interact with the Serial Port (Link Cable, Wireless Adapter, GPIO, SPI)
+* [gba-link-connection](https://github.com/afska/gba-link-connection) ⭐ 298 | 🐛 0 | 🌐 C++ | 📅 2026-10-15: A set of C++ libraries to interact with the Serial Port (Link Cable, Wireless Adapter, GPIO, SPI)
 * [agbabi](https://github.com/felixjones/agbabi) ⭐ 81 | 🐛 3 | 🌐 C | 📅 2024-05-10 - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
 * [Krawall](https://github.com/sebknzl/krawall) ⭐ 69 | 🐛 2 | 🌐 C | 📅 2014-10-01 - Music and sound library (supports .xm, .s3m)
 * [Apex Audio System](https://github.com/stuij/apex-audio-system) ⭐ 52 | 🐛 2 | 🌐 C | 📅 2023-10-20 - Music and sound library (supports .mod only, but *very* good performance)
@@ -107,7 +107,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 * [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance) ⚠️ Archived - GBA emulator with high accuracy, especially in timing and CPU emulation. Does not have debugging features.
 * [SkyEmu](https://github.com/skylersaleh/SkyEmu) ⭐ 1,301 | 🐛 250 | 🌐 C | 📅 2026-10-13 - GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.
-* [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) ⭐ 176 | 🐛 21 | 🌐 VHDL | 📅 2026-07-22 - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) ⭐ 3,301 | 🐛 140 | 🌐 C++ | 📅 2026-10-14 setup to run.
+* [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) ⭐ 176 | 🐛 21 | 🌐 VHDL | 📅 2026-07-22 - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) ⭐ 3,302 | 🐛 142 | 🌐 C++ | 📅 2026-10-14 setup to run.
 * [mGBA](https://mgba.io) - Actively developed GBA emulator. Runs on a bunch of platforms. Text debugger through GDB stub.
 * [No$gba](https://problemkaputt.de/gba.htm) - Venerable GBA emulator. Windows only, but runs well under Wine. Not very actively maintained but still gets updates now and then. Sports graphical debugger.
 * [Mesen](https://mesen.ca/) - Multi-system emulator with high GBA accuracy. It provides great built-in GUI tools such as a debugger, a profiler and an event viewer.
@@ -166,4 +166,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
