@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T22:25:29Z",
-                "open_issues": 606,
+                "last_commit": "2026-10-21T00:36:10Z",
+                "open_issues": 602,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17824,
+                "stars": 17828,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -118,7 +118,7 @@
                 "language": "C++",
                 "license": "Zlib",
                 "last_commit": "2026-10-20T00:43:12Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
                 "stars": 1802,
@@ -642,10 +642,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-13T01:43:12Z",
-                "open_issues": 251,
+                "open_issues": 252,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1306,
+                "stars": 1308,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -672,7 +672,7 @@
                 "language": "VHDL",
                 "license": "GPL-2.0",
                 "last_commit": "2026-07-22T05:10:54Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "MiSTer-devel",
                 "repo": "GBA_MiSTer",
                 "stars": 176,
@@ -812,7 +812,7 @@
             "open_issues": 168,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5130,
+            "stars": 5131,
             "topics": [
               "openlara",
               "tombraider"
@@ -836,7 +836,7 @@
             "open_issues": 2,
             "owner": "JeffRuLz",
             "repo": "Celeste-Classic-GBA",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "gba",
               "homebrew"
@@ -856,8 +856,8 @@
             "id": 208338677,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-19T20:42:35Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-20T22:36:00Z",
+            "open_issues": 23,
             "owner": "doomhack",
             "repo": "GBADoom",
             "stars": 299,
@@ -881,7 +881,7 @@
             "open_issues": 4,
             "owner": "evanbowman",
             "repo": "blind-jump-portable",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "cpp",
               "cpp17",
@@ -1032,7 +1032,7 @@
                 "open_issues": 36,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 1004,
+                "stars": 1005,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T04:38:54.326Z",
+    "last_updated": "2026-10-21T04:31:49.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
