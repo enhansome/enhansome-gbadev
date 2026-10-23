@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T16:43:17Z",
-                "open_issues": 604,
+                "last_commit": "2026-10-23T02:03:50Z",
+                "open_issues": 605,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17828,
+                "stars": 17837,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1803,
+                "stars": 1805,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -335,7 +335,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-06T23:00:47Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "AntonioND",
                 "repo": "gbt-player",
                 "stars": 305,
@@ -642,7 +642,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-13T01:43:12Z",
-                "open_issues": 252,
+                "open_issues": 253,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
                 "stars": 1309,
@@ -812,7 +812,7 @@
             "open_issues": 168,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5133,
+            "stars": 5134,
             "topics": [
               "openlara",
               "tombraider"
@@ -856,7 +856,7 @@
             "id": 208338677,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-21T20:25:29Z",
+            "last_commit": "2026-10-22T20:00:53Z",
             "open_issues": 24,
             "owner": "doomhack",
             "repo": "GBADoom",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T04:30:24.286Z",
+    "last_updated": "2026-10-23T04:35:34.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
