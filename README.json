@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T02:03:50Z",
-                "open_issues": 605,
+                "last_commit": "2026-10-24T02:35:59Z",
+                "open_issues": 608,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17837,
+                "stars": 17841,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -62,7 +62,7 @@
                 "open_issues": 2,
                 "owner": "felixjones",
                 "repo": "gba-toolchain",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -147,7 +147,7 @@
                 "open_issues": 7,
                 "owner": "rust-console",
                 "repo": "gba",
-                "stars": 726,
+                "stars": 728,
                 "topics": [
                   "gba",
                   "rust"
@@ -603,6 +603,36 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SkyEmu",
+              "description": "GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator",
+                "homepage": "http://skyemu.app",
+                "id": 369374514,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-10-13T01:43:12Z",
+                "open_issues": 252,
+                "owner": "skylersaleh",
+                "repo": "SkyEmu",
+                "stars": 1311,
+                "topics": [
+                  "emulation",
+                  "emulator",
+                  "gameboy",
+                  "gameboy-advance",
+                  "gameboy-color",
+                  "gameboy-emulator",
+                  "nintendo-ds",
+                  "wasm"
+                ]
+              },
+              "first_seen": "2026-08-28T11:14:15.640Z"
+            },
+            {
+              "node_type": "item",
               "title": "NanoBoyAdvance",
               "description": "GBA emulator with high accuracy, especially in timing and CPU emulation. Does not have debugging features.",
               "children": [],
@@ -631,36 +661,6 @@
             },
             {
               "node_type": "item",
-              "title": "SkyEmu",
-              "description": "GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator",
-                "homepage": "http://skyemu.app",
-                "id": 369374514,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-10-13T01:43:12Z",
-                "open_issues": 253,
-                "owner": "skylersaleh",
-                "repo": "SkyEmu",
-                "stars": 1309,
-                "topics": [
-                  "emulation",
-                  "emulator",
-                  "gameboy",
-                  "gameboy-advance",
-                  "gameboy-color",
-                  "gameboy-emulator",
-                  "nintendo-ds",
-                  "wasm"
-                ]
-              },
-              "first_seen": "2026-08-28T11:14:15.640Z"
-            },
-            {
-              "node_type": "item",
               "title": "MiSTer FPGA implementation",
               "description": "Needs MiSTer setup to run.",
               "children": [],
@@ -672,10 +672,10 @@
                 "language": "VHDL",
                 "license": "GPL-2.0",
                 "last_commit": "2026-07-22T05:10:54Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "MiSTer-devel",
                 "repo": "GBA_MiSTer",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -812,7 +812,7 @@
             "open_issues": 168,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5134,
+            "stars": 5135,
             "topics": [
               "openlara",
               "tombraider"
@@ -1032,7 +1032,7 @@
                 "open_issues": 36,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T04:35:34.317Z",
+    "last_updated": "2026-10-24T04:25:26.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
