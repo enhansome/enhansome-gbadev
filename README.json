@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T22:00:54Z",
-                "open_issues": 540,
+                "last_commit": "2026-10-27T22:22:58Z",
+                "open_issues": 525,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17851,
+                "stars": 17853,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -617,7 +617,7 @@
                 "open_issues": 253,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -709,7 +709,7 @@
                 "open_issues": 8,
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "gameboy",
                   "nes"
@@ -812,7 +812,7 @@
             "open_issues": 168,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5139,
+            "stars": 5141,
             "topics": [
               "openlara",
               "tombraider"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T04:51:15.330Z",
+    "last_updated": "2026-10-28T05:26:25.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
