@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T22:22:58Z",
-                "open_issues": 525,
+                "last_commit": "2026-10-28T22:30:05Z",
+                "open_issues": 528,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17853,
+                "stars": 17857,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -221,7 +221,7 @@
                 "open_issues": 13,
                 "owner": "evanbowman",
                 "repo": "BPCore-Engine",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "game-engine",
                   "gameboy-advance",
@@ -334,8 +334,8 @@
                 "id": 19330221,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-06T23:00:47Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-28T22:58:41Z",
+                "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "gbt-player",
                 "stars": 306,
@@ -705,7 +705,7 @@
                 "id": 132848090,
                 "language": "Assembly",
                 "license": "GPL-2.0",
-                "last_commit": "2026-07-09T04:09:09Z",
+                "last_commit": "2026-10-28T23:35:21Z",
                 "open_issues": 8,
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
@@ -812,7 +812,7 @@
             "open_issues": 168,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5141,
+            "stars": 5142,
             "topics": [
               "openlara",
               "tombraider"
@@ -860,7 +860,7 @@
             "open_issues": 24,
             "owner": "doomhack",
             "repo": "GBADoom",
-            "stars": 298,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T05:26:25.676Z",
+    "last_updated": "2026-10-29T05:35:36.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1358,
+      "stars": 1359,
       "topics": [
         "awesome-list",
         "emulator-development",
