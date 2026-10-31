@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T22:30:05Z",
+                "last_commit": "2026-10-31T02:24:49Z",
                 "open_issues": 539,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17862,
+                "stars": 17867,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1815,
+                "stars": 1818,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -368,7 +368,7 @@
                 "open_issues": 0,
                 "owner": "afska",
                 "repo": "gba-link-connection",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "adapter",
                   "cable",
@@ -614,10 +614,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-24T14:51:40Z",
-                "open_issues": 253,
+                "open_issues": 252,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1314,
+                "stars": 1316,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -647,7 +647,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -881,7 +881,7 @@
             "open_issues": 4,
             "owner": "evanbowman",
             "repo": "blind-jump-portable",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "cpp",
               "cpp17",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T05:34:46.342Z",
+    "last_updated": "2026-10-31T05:24:07.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1360,
+      "stars": 1361,
       "topics": [
         "awesome-list",
         "emulator-development",
