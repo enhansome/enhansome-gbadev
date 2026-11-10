@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T04:54:47Z",
-                "open_issues": 507,
+                "last_commit": "2026-11-10T06:49:05Z",
+                "open_issues": 503,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17905,
+                "stars": 17906,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1826,
+                "stars": 1827,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -617,7 +617,7 @@
                 "open_issues": 252,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1316,
+                "stars": 1318,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -809,10 +809,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-26T16:56:52Z",
-            "open_issues": 170,
+            "open_issues": 173,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5148,
+            "stars": 5149,
             "topics": [
               "openlara",
               "tombraider"
@@ -1032,7 +1032,7 @@
                 "open_issues": 36,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:04:26.649Z",
+    "last_updated": "2026-11-10T07:05:28.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
