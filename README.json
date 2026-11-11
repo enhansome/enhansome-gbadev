@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T06:49:05Z",
-                "open_issues": 503,
+                "last_commit": "2026-11-11T03:51:31Z",
+                "open_issues": 502,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17906,
+                "stars": 17907,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1827,
+                "stars": 1828,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -147,7 +147,7 @@
                 "open_issues": 7,
                 "owner": "rust-console",
                 "repo": "gba",
-                "stars": 728,
+                "stars": 729,
                 "topics": [
                   "gba",
                   "rust"
@@ -709,7 +709,7 @@
                 "open_issues": 8,
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "gameboy",
                   "nes"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:05:28.242Z",
+    "last_updated": "2026-11-11T05:57:22.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
@@ -1093,7 +1093,7 @@
       "open_issues": 6,
       "owner": "gbadev-org",
       "repo": "awesome-gbadev",
-      "stars": 1364,
+      "stars": 1365,
       "topics": [
         "awesome-list",
         "emulator-development",
