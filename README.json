@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T03:51:31Z",
-                "open_issues": 502,
+                "last_commit": "2026-11-12T05:24:17Z",
+                "open_issues": 496,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17907,
+                "stars": 17909,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -58,8 +58,8 @@
                 "id": 240962598,
                 "language": "CMake",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T14:19:25Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-11T21:17:38Z",
+                "open_issues": 3,
                 "owner": "felixjones",
                 "repo": "gba-toolchain",
                 "stars": 141,
@@ -147,7 +147,7 @@
                 "open_issues": 7,
                 "owner": "rust-console",
                 "repo": "gba",
-                "stars": 729,
+                "stars": 730,
                 "topics": [
                   "gba",
                   "rust"
@@ -617,7 +617,7 @@
                 "open_issues": 252,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1318,
+                "stars": 1319,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -675,7 +675,7 @@
                 "open_issues": 24,
                 "owner": "MiSTer-devel",
                 "repo": "GBA_MiSTer",
-                "stars": 177,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -812,7 +812,7 @@
             "open_issues": 173,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5149,
+            "stars": 5151,
             "topics": [
               "openlara",
               "tombraider"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T05:57:22.091Z",
+    "last_updated": "2026-11-12T06:59:35.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
