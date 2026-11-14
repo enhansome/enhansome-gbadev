@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T00:06:59Z",
-                "open_issues": 508,
+                "last_commit": "2026-11-14T04:37:11Z",
+                "open_issues": 504,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17909,
+                "stars": 17912,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -58,8 +58,8 @@
                 "id": 240962598,
                 "language": "CMake",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T21:17:38Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-13T10:36:50Z",
+                "open_issues": 2,
                 "owner": "felixjones",
                 "repo": "gba-toolchain",
                 "stars": 141,
@@ -613,11 +613,11 @@
                 "id": 369374514,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-24T14:51:40Z",
-                "open_issues": 254,
+                "last_commit": "2026-11-13T09:28:43Z",
+                "open_issues": 255,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1320,
+                "stars": 1321,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -1032,7 +1032,7 @@
                 "open_issues": 36,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 1013,
+                "stars": 1014,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T06:26:15.596Z",
+    "last_updated": "2026-11-14T06:05:54.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
