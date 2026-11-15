@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T04:37:11Z",
-                "open_issues": 504,
+                "last_commit": "2026-11-15T05:57:25Z",
+                "open_issues": 507,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17912,
+                "stars": 17914,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -117,11 +117,11 @@
                 "id": 231556327,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-11-08T04:45:27Z",
+                "last_commit": "2026-11-14T07:02:35Z",
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1829,
+                "stars": 1833,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -617,7 +617,7 @@
                 "open_issues": 255,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1321,
+                "stars": 1322,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -812,7 +812,7 @@
             "open_issues": 173,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5151,
+            "stars": 5154,
             "topics": [
               "openlara",
               "tombraider"
@@ -1004,7 +1004,7 @@
             "open_issues": 0,
             "owner": "gb-archive",
             "repo": "usenti",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "gba",
               "gba-development",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:05:54.595Z",
+    "last_updated": "2026-11-15T06:13:04.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
