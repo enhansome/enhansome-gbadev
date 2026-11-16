@@ -64,14 +64,14 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Compilers
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,914 | 🐛 507 | 🌐 Go | 📅 2026-11-15 - An alternative Go compiler for embedded systems, that supports GBA compilation
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,916 | 🐛 510 | 🌐 Go | 📅 2026-11-16 - An alternative Go compiler for embedded systems, that supports GBA compilation
 * [gba-toolchain](https://github.com/felixjones/gba-toolchain) ⭐ 141 | 🐛 2 | 🌐 CMake | 📅 2026-11-13 - GNU Arm Embedded Toolchain based alternative to devkitARM.
 * [gvasm](https://github.com/velipso/gvasm) ⭐ 72 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-07 - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 * [devkitARM](https://devkitpro.org) - C/C++ cross-compiler toolchain, which includes libgba, libtonc, maxmod, and various tools and example projects.
 
 ## Toolkits
 
-* [Butano](https://github.com/GValiente/butano) ⭐ 1,833 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 - Modern C++ high level engine for the GBA.
+* [Butano](https://github.com/GValiente/butano) ⭐ 1,834 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 - Modern C++ high level engine for the GBA.
 * [rust-console](https://github.com/rust-console/gba) ⭐ 730 | 🐛 7 | 🌐 Rust | 📅 2026-08-13 - GBA programming in Rust, plus tutorial.
 * [ZigGBA](https://github.com/wendigojaeger/ZigGBA) ⭐ 390 | 🐛 7 | 🌐 Zig | 📅 2025-07-19 - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
 * [natu](https://github.com/exelotl/natu) ⭐ 252 | 🐛 0 | 🌐 Nim | 📅 2025-02-15 - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
@@ -89,8 +89,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Libraries
 
 * [GBT Player](https://github.com/AntonioND/gbt-player) ⭐ 306 | 🐛 0 | 🌐 C | 📅 2026-10-28 - Music library that uses the DMG sound channels (close to 0% CPU usage).
-* [gba-link-connection](https://github.com/afska/gba-link-connection) ⭐ 300 | 🐛 0 | 🌐 C++ | 📅 2026-10-29: A set of C++ libraries to interact with the Serial Port (Link Cable, Wireless Adapter, GPIO, SPI)
-* [agbabi](https://github.com/felixjones/agbabi) ⭐ 82 | 🐛 3 | 🌐 C | 📅 2024-05-10 - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
+* [gba-link-connection](https://github.com/afska/gba-link-connection) ⭐ 301 | 🐛 0 | 🌐 C++ | 📅 2026-10-29: A set of C++ libraries to interact with the Serial Port (Link Cable, Wireless Adapter, GPIO, SPI)
+* [agbabi](https://github.com/felixjones/agbabi) ⭐ 83 | 🐛 3 | 🌐 C | 📅 2024-05-10 - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
 * [Krawall](https://github.com/sebknzl/krawall) ⭐ 69 | 🐛 2 | 🌐 C | 📅 2014-10-01 - Music and sound library (supports .xm, .s3m)
 * [Apex Audio System](https://github.com/stuij/apex-audio-system) ⭐ 52 | 🐛 2 | 🌐 C | 📅 2023-10-20 - Music and sound library (supports .mod only, but *very* good performance)
 * [HeartLib](https://github.com/Sterophonick/HeartLib) ⚠️ Archived - Comprehensive C library inspired by the classic HAMLib.
@@ -105,7 +105,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Emulators
 
-* [SkyEmu](https://github.com/skylersaleh/SkyEmu) ⭐ 1,322 | 🐛 255 | 🌐 C | 📅 2026-11-13 - GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.
+* [SkyEmu](https://github.com/skylersaleh/SkyEmu) ⭐ 1,323 | 🐛 255 | 🌐 C | 📅 2026-11-13 - GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy.
 * [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance) ⚠️ Archived - GBA emulator with high accuracy, especially in timing and CPU emulation. Does not have debugging features.
 * [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) ⭐ 173 | 🐛 24 | 🌐 VHDL | 📅 2026-07-22 - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) ⭐ 3,309 | 🐛 143 | 🌐 C++ | 📅 2026-11-14 setup to run.
 * [mGBA](https://mgba.io) - Actively developed GBA emulator. Runs on a bunch of platforms. Text debugger through GDB stub.
@@ -123,7 +123,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 # Homebrews
 
-* [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,154 | 🐛 173 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine
+* [OpenLara](https://github.com/XProger/OpenLara) ⭐ 5,155 | 🐛 173 | 🌐 C | 📅 2026-07-26 - Classic Tomb Raider open-source engine
 * [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) ⭐ 405 | 🐛 2 | 🌐 C | 📅 2025-04-09 - 2019 port of Pico8 version of Celeste.
 * [GBADoom](https://github.com/doomhack/GBADoom) ⭐ 303 | 🐛 12 | 🌐 C | 📅 2026-10-22 - 2019/2020 GBA port of prBoom version of Doom.
 * [BlindJump](https://github.com/evanbowman/blind-jump-portable) ⭐ 233 | 🐛 4 | 🌐 C++ | 📅 2023-07-07 - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
@@ -166,4 +166,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

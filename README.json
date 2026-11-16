@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T05:57:25Z",
-                "open_issues": 507,
+                "last_commit": "2026-11-16T05:45:11Z",
+                "open_issues": 510,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17914,
+                "stars": 17916,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1833,
+                "stars": 1834,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -368,7 +368,7 @@
                 "open_issues": 0,
                 "owner": "afska",
                 "repo": "gba-link-connection",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "adapter",
                   "cable",
@@ -406,7 +406,7 @@
                 "open_issues": 3,
                 "owner": "felixjones",
                 "repo": "agbabi",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -617,7 +617,7 @@
                 "open_issues": 255,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -812,7 +812,7 @@
             "open_issues": 173,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5154,
+            "stars": 5155,
             "topics": [
               "openlara",
               "tombraider"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:13:04.092Z",
+    "last_updated": "2026-11-16T06:10:46.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
