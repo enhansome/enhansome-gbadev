@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T07:12:27Z",
-                "open_issues": 517,
+                "last_commit": "2026-11-18T04:45:00Z",
+                "open_issues": 512,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17919,
+                "stars": 17920,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1836,
+                "stars": 1837,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -368,7 +368,7 @@
                 "open_issues": 0,
                 "owner": "afska",
                 "repo": "gba-link-connection",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "adapter",
                   "cable",
@@ -617,7 +617,7 @@
                 "open_issues": 255,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1325,
+                "stars": 1324,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -647,7 +647,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -759,7 +759,7 @@
                 "open_issues": 9,
                 "owner": "mgba-emu",
                 "repo": "suite",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -812,7 +812,7 @@
             "open_issues": 173,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5155,
+            "stars": 5154,
             "topics": [
               "openlara",
               "tombraider"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T07:45:05.297Z",
+    "last_updated": "2026-11-18T07:10:41.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
