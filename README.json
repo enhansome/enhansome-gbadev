@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T01:03:17Z",
-                "open_issues": 519,
+                "last_commit": "2026-11-22T04:51:00Z",
+                "open_issues": 526,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17924,
+                "stars": 17925,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -62,7 +62,7 @@
                 "open_issues": 2,
                 "owner": "felixjones",
                 "repo": "gba-toolchain",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:14:15.640Z"
@@ -117,7 +117,7 @@
                 "id": 231556327,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-11-14T07:02:35Z",
+                "last_commit": "2026-11-21T22:19:35Z",
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
@@ -221,7 +221,7 @@
                 "open_issues": 13,
                 "owner": "evanbowman",
                 "repo": "BPCore-Engine",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "game-engine",
                   "gameboy-advance",
@@ -617,7 +617,7 @@
                 "open_issues": 255,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1322,
+                "stars": 1321,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -812,7 +812,7 @@
             "open_issues": 179,
             "owner": "XProger",
             "repo": "OpenLara",
-            "stars": 5163,
+            "stars": 5162,
             "topics": [
               "openlara",
               "tombraider"
@@ -860,7 +860,7 @@
             "open_issues": 13,
             "owner": "doomhack",
             "repo": "GBADoom",
-            "stars": 302,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T11:14:15.640Z"
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T06:55:16.263Z",
+    "last_updated": "2026-11-22T06:31:33.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
