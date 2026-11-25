@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T08:13:44Z",
+                "last_commit": "2026-11-25T02:38:02Z",
                 "open_issues": 530,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17935,
+                "stars": 17939,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -613,7 +613,7 @@
                 "id": 369374514,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-13T09:28:43Z",
+                "last_commit": "2026-11-24T21:19:59Z",
                 "open_issues": 255,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
@@ -647,7 +647,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -1032,7 +1032,7 @@
                 "open_issues": 36,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T09:42:49.464Z",
+    "last_updated": "2026-11-25T08:16:34.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
