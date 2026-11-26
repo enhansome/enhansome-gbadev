@@ -17,8 +17,8 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T02:38:02Z",
-                "open_issues": 530,
+                "last_commit": "2026-11-26T07:56:23Z",
+                "open_issues": 528,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
                 "stars": 17939,
@@ -365,7 +365,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-24T07:09:28Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "afska",
                 "repo": "gba-link-connection",
                 "stars": 302,
@@ -881,7 +881,7 @@
             "open_issues": 4,
             "owner": "evanbowman",
             "repo": "blind-jump-portable",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "cpp",
               "cpp17",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T08:16:34.679Z",
+    "last_updated": "2026-11-26T08:02:14.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
