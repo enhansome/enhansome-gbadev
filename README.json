@@ -17,11 +17,11 @@
                 "id": 136505169,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T07:56:23Z",
-                "open_issues": 528,
+                "last_commit": "2026-11-27T07:51:51Z",
+                "open_issues": 544,
                 "owner": "tinygo-org",
                 "repo": "tinygo",
-                "stars": 17939,
+                "stars": 17947,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "GValiente",
                 "repo": "butano",
-                "stars": 1839,
+                "stars": 1840,
                 "topics": [
                   "game-boy-advance",
                   "game-engine",
@@ -364,8 +364,8 @@
                 "id": 307125218,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-24T07:09:28Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-26T11:39:21Z",
+                "open_issues": 0,
                 "owner": "afska",
                 "repo": "gba-link-connection",
                 "stars": 302,
@@ -617,7 +617,7 @@
                 "open_issues": 255,
                 "owner": "skylersaleh",
                 "repo": "SkyEmu",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -1032,7 +1032,7 @@
                 "open_issues": 36,
                 "owner": "pret",
                 "repo": "pokeruby",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": [
                   "c",
                   "decompilation",
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:02:14.668Z",
+    "last_updated": "2026-11-27T08:08:27.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy Advance development resources",
